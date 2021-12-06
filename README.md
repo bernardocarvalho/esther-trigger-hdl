@@ -1,5 +1,5 @@
 # This repository is outdatet. 
-## New version is now at [github](https://github.com/bernardocarvalho/ad-ipfn-hdl)
+## New version is now at this  [github repo](https://github.com/bernardocarvalho/ad-ipfn-hdl)
 
 # esther-trigger-hdl
 Vivado HDL files for ESTHER trigger system using KC705 and AD fmcjesdadc1 board
